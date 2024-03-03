@@ -26,5 +26,5 @@
 
 ## 📫Entre em contato  comigo .... 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Natalia%20Serradas-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliaserradas/)  ](https://www.linkedin.com/in/pauloemidio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Natalia%20Serradas-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliaserradas/)  ](https://www.linkedin.com/in/nataliaserradas/)
 [![Gmail Badge](https://img.shields.io/badge/-nataliaserradas@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nataliaserradas@gmail.com)](mailto:nataliaserradas@gmail.com)
